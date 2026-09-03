@@ -8,7 +8,7 @@ A full-stack, database-driven web application designed to help student developer
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Site__Showcase-6B5B95?style=for-the-badge&logo=loom&logoColor=white)](https://youtu.be/rTRzkc7Gc2I)
 
-> 💡 *Click the badges above to view the interface screenshots or watch the full site demonstration and breakdown.*
+> 💡 *Click the badges above to watch the full site demonstration and breakdown.*
 
 ## 📌 Overview
 
