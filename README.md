@@ -6,8 +6,7 @@ A full-stack, database-driven web application designed to help student developer
 
 ## 📽️ Showcase & Preview
 
-[![Preview Dashboard Overview](https://img.shields.io/badge/Preview-Dashboard__Overview-0078D4?style=for-the-badge&logo=windows&logoColor=white)](./assets/preview.png)
-[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Site__Showcase-6B5B95?style=for-the-badge&logo=loom&logoColor=white)](YOUR_LOOM_OR_YOUTUBE_VIDEO_LINK_HERE)
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Site__Showcase-6B5B95?style=for-the-badge&logo=loom&logoColor=white)](https://youtu.be/rTRzkc7Gc2I)
 
 > 💡 *Click the badges above to view the interface screenshots or watch the full site demonstration and breakdown.*
 
